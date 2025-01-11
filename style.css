@@ -349,6 +349,12 @@ nav{
     font-size: 16px;
 }  
 
+.CardVisionYellow .btn:hover{
+    background-color: #ffffff;
+    color: #FFC239;
+}  
+
+/* Quote Section */
 
 .quote{
     margin-top: 32px;
@@ -381,6 +387,8 @@ nav{
     
     background-position: top left;
 }
+
+/* Your Opinion section */
 
 .opinion{
     margin-top: 80px;
@@ -431,6 +439,8 @@ select{
     text-align: center;
 }
 
+/* Recent News  */
+
 .recentNews{
     margin-top: 80px;
 }
@@ -468,6 +478,12 @@ select{
     margin-top: 32px;
 }
 
+.newsContainer .btn:hover{
+    color: #ffffff;
+    background-color: #00c090;
+}
+
+/* Donate Today */
 
 .donation{
     margin-top: 80px;
@@ -520,6 +536,13 @@ select{
     padding: 17px 34px 17px 34px;
 }
 
+.btn:hover{
+    color: #ffffff;
+    background-color: #00c090;
+}
+
+/* Newsletter section */
+
 .subscribe{
     margin: 0 auto;
     width: 80%;
@@ -559,6 +582,11 @@ select{
     background-color: #006A50;
 }
 
+.inputArea button:hover{
+    background-color: #00c090;
+    color: #ffffff;
+}
+
 .note{
     margin-top: 24px;
 }
@@ -566,6 +594,7 @@ select{
     color: #848484;
 }
 
+/* Footer Section  */
 
 footer{
     margin-top: 80px;
