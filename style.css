@@ -334,11 +334,32 @@ nav{
 
 .quote{
     margin-top: 32px;
+}
+
+.quote .row{
     background-color: #ffffff;
     border: 1px solid #848484;
     border-radius: 16px;
 }
 
 .qouteBox{
-    padding: 48px 24px 48px 24px;
+    margin: 38px 24px 48px 24px;
+}
+
+.qouteBox p{
+    padding-top: 10px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #3b3b3b;
+}
+
+.qouteBox h4{
+    margin-top: 12px;
+}
+
+.qouteBox{
+    background-image: url(assets/quote-bg.png);
+    background-repeat: no-repeat;
+    
+    background-position: top left;
 }
