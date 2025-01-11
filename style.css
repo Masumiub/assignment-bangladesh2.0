@@ -450,6 +450,7 @@ select{
     margin-top: 32px;
 }
 
+
 .donation{
     margin-top: 80px;
 }
@@ -499,4 +500,50 @@ select{
     border: none;
     border-radius: 5px;
     padding: 17px 34px 17px 34px;
+}
+
+.subscribe{
+    margin: 0 auto;
+    width: 80%;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    margin-top: 80px;
+}
+
+.subscribeContent {
+    text-align: center;
+    width: 55%;
+    margin: 0 auto;
+    justify-content: center;
+    padding: 80px;
+}
+
+.inputArea{
+    display: flex;
+    gap:0px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.customInput{
+    width: 455px;
+    border: none;
+    border-radius: 5px 0px 0px 5px;
+    padding: 18px 40px 18px 40px;
+}
+
+.inputArea button{
+    color: #ffffff;
+    padding: 18px 40px 18px 40px;
+    border: none;
+    border-radius: 0px 5px 5px 0px;
+    background-color: #006A50;
+}
+
+.note{
+    margin-top: 24px;
+}
+.note p{
+    color: #656565;
 }
