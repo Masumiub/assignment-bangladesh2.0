@@ -2,6 +2,10 @@
     margin: 0 ;
 }
 
+body{
+    background-color: #fbfbfb;
+}
+
 .fira-sans-thin {
     font-family: "Fira Sans", serif;
     font-weight: 100;
@@ -114,7 +118,7 @@
 /* Nav Styles */
 
 nav{
-    background-color: #ffffff;
+    background-color: #fbfbfb;
 }
 
 .navigation {
@@ -249,4 +253,92 @@ nav{
     margin-top: 12px;
     font-size: 16px;
     color: #848484;
+    line-height: 24px;
+}
+
+.vision{
+    margin-top: 80px;
+}
+
+.headingContainer p{
+    margin-top: 24px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #848484;
+}
+
+
+.CardVisionBlue{
+    padding: 32px;
+    background-color: #d0e1ff;
+    border:none;
+}
+
+.CardVisionBlue p{
+    color: #3b3b3b;
+}
+
+.CardVisionBlue .btn{
+    margin-top: 24px;
+    border: none;
+    color: #ffffff;
+    padding: 11px 20px 11px 20px;
+    border-radius: 8px;
+    background-color: #5490F5;
+    font-size: 16px;
+}   
+
+
+.CardVisionGreen{
+    padding: 32px;
+    background-color: #d2fde9;
+    border:none;
+}
+
+.CardVisionGreen p{
+    color: #3b3b3b;
+}
+
+.CardVisionGreen .btn{
+    margin-top: 24px;
+    border: none;
+    color: #ffffff;
+    padding: 11px 20px 11px 20px;
+    border-radius: 8px;
+    background-color: #09A15C;
+    font-size: 16px;
+}   
+
+
+.CardVisionYellow{
+    padding: 32px;
+    background-color: #fff2d2;
+    border:none;
+}
+
+
+.CardVisionYellow p{
+    color: #3b3b3b;
+}
+
+.CardVisionYellow .btn{
+    margin-top: 24px;
+    border: none;
+    color: #ffffff;
+    padding: 11px 20px 11px 20px;
+    border-radius: 8px;
+    background-color: #FFC239;
+    font-size: 16px;
+}  
+
+
+.quote{
+    margin-top: 32px;
+    background-color: #ffffff;
+    border: 1px solid #848484;
+    border-radius: 16px;
+}
+
+.qouteBox{
+    padding: 48px 24px 48px 24px;
 }
